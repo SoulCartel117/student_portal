@@ -1,4 +1,28 @@
 
+.heading-div {
+    border: 1px solid black;
+}
+
+.sections-header {
+    background-color: rgb(38,91,140);
+    margin: 0;
+}
+
+.sections-header a {
+    color: white;
+}
+
+.announcements-link {
+    color:rgb(38,91,140);
+}
+.announcements-color {
+    background-color: rgb(222,222,222);
+}
+.socials {
+        list-style: none;
+        display: flex;
+}
+
 .section-head {
     background-color: rgb(38, 91, 140);
 }
@@ -50,4 +74,5 @@ input{
     width: 30px;
     border-radius: 5px 0 0 5px;
 }
+
 
