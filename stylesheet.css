@@ -102,3 +102,6 @@ input{
     display: flex;
 }
 
+.formatting {
+    margin:10px;
+}
