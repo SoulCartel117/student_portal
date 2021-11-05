@@ -112,8 +112,9 @@ input{
     margin: 10px;
     background-color:rgb(222, 222, 222);
 }
-.link{
-    display: flex;
+.link a {
+    color: rgb(38, 91, 140);
+    font-size: xx-large;
 }
 
 
