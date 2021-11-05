@@ -50,4 +50,21 @@ input{
     width: 30px;
     border-radius: 5px 0 0 5px;
 }
-
+.login{
+    height: 30px;
+    width: 50px;
+    margin-right: 20px;
+}
+.content-flex{
+    display: flex;
+    justify-content: center;
+}
+.gray-box2{
+    height: 600px;
+    width: 25%;
+    margin: 10px;
+    background-color:rgb(222, 222, 222);
+}
+.link{
+    display: flex;
+}
