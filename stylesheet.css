@@ -101,6 +101,12 @@ input{
 .link{
     display: flex;
 }
+
+
+.formatting {
+    margin:10px;
+}
+
 .indented {
     padding-left: 30px;
 }
