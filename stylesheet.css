@@ -33,6 +33,14 @@
     color: rgb(38, 91, 140);
 }
 
+a:visited{
+    color: rgb(38,91,140);
+} 
+
+.section-head a:visited{
+    color: white
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -74,6 +82,7 @@ input{
     width: 30px;
     border-radius: 5px 0 0 5px;
 }
+
 .login{
     height: 30px;
     width: 50px;
@@ -92,3 +101,4 @@ input{
 .link{
     display: flex;
 }
+
